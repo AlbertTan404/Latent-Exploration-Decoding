@@ -47,7 +47,7 @@ python run_benchmarks.py \
 --latent_method=led
 # --latent_method=dola --sub_method=low # for DoLa
 # --enable_soft_thinking  # For SoftThinking
-# --enable_soft_thinking --add_noise_gumbel_softmax # For SoftThikning-Gumbel
+# --enable_soft_thinking --add_noise_gumbel_softmax # For SoftThinking-Gumbel
 ```
 
 Other hyperparameters can be modified in `run_benchmarks.py`.

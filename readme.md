@@ -72,4 +72,4 @@ If you use this code or dataset, please cite our paper:
 ```
 
 ## Acknowledgements
-We would like to thank the authors of [SGLang](https://github.com/sgl-project/sglang) and [SoftThkning](https://github.com/eric-ai-lab/Soft-Thinking) for their work on the SGLang library, which we have modified and extended for our research.
+We would like to thank the authors of [SGLang](https://github.com/sgl-project/sglang) and [SoftThinking](https://github.com/eric-ai-lab/Soft-Thinking) for their work on the SGLang library, which we have modified and extended for our research.
